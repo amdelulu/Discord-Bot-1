@@ -49,6 +49,5 @@ If you’d like to see more, request access or contact me below.
 
 ## 🏷️ License
 
-This project is **not open source**.  
 You may not redistribute or modify any part of this repository without permission.
 
