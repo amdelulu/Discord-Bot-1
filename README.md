@@ -2,7 +2,7 @@
 
 ![QueenIMP-Bot Banner](queenimp.png)
 
-QueenIMP-Bot is a **feature-packed Discord bot** built with **Python** and **SQL**, designed for moderation, entertainment, and customization.  
+QueenIMP-Bot is a **feature-packed Discord bot** built with **Python**. designed for moderation, entertainment, and customization.  
 This repository serves as a **showcase** of the project — no source code is shared publicly.
 
 ---
