@@ -25,7 +25,7 @@ This repository serves as a **showcase** of the project — no source code is sh
 
 ## 🧠 Built With
 
-- 🐍 **Python** — Core logic & commands.  
+- 🐍 **Python** — Core logic & commands  
 - 🗃️ **SQLite / SQLAlchemy** — Persistent data storage.  
 - 🤖 **Discord.py / Nextcord** — Powerful Discord API wrapper.  
 
