@@ -11,7 +11,7 @@ This repository serves as a **showcase** of the project — no source code is sh
 
 - 🛡️ **Advanced Moderation** — Timeout, Warn, Ban, Kick, Clear, lock, Kiss/Hug Game. with custom embeds.   
 - ⚙️ **Custom Configuration** — Guild-specific settings saved in an SQL database.  
-- 🎨 **Beautiful Embed System** — Sleek modern UI with Cozy-styled colors.
+- 🎨 **Beautiful Embed System**.
 
 ---
 
