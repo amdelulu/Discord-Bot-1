@@ -1,4 +1,4 @@
-# 🌙 QueenIMP-Bot — A Modern Discord Experience
+# 🌙 QueenIMP's-Bot — A Modern Discord Experience
 
 ![QueenIMP-Bot Banner](queenimp.png)
 
