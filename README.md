@@ -41,8 +41,6 @@ If you’d like to see more, request access or contact me below.
 ## 📬 Contact
 
 - **Developer:** [x0dayy]
-- **Discord Contact:** [https://discord.com/users/1412418496733773855]
-- **Email:** [panicyuzu@proton.me]
 - **Portfolio:** [https://x0dayy.pages.dev/]
 
 ---
